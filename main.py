@@ -1,2 +1,2 @@
-api_key = open("apikey.txt", "r")
-key = (api_key.readlines())[0].strip()
+key = 563492ad6f91700001000001596501b32afd410da1a28b90e1b19b17
+
